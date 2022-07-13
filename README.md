@@ -10,5 +10,7 @@ Updating the FW of BG96 is essential to use the plastic Sim and sample applicait
    
 3: Find the FILE "HOW to flash BG96 board" in the path in step 2 and apply the steps.
 
+4: Once the FW is updated: Build and run the cellular application 
+
    
    
